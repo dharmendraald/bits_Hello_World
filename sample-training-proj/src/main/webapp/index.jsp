@@ -1,4 +1,4 @@
 <html>
 <body>
-<h2>Hello Devops, This bould trigger via autmation by jenkins Created by Dharmendra kumra</h2>
+<h2>Hello Devops, This build trigger via automation by jenkins and Created by Dharmendra kumar</h2>
 </html>
