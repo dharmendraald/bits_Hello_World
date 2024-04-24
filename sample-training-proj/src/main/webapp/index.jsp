@@ -1,4 +1,4 @@
 <html>
 <body>
-<h2>Hello Bits Pilani, automated through build triggered </h2>
+<h2>Hello Devops, automated build triggered through jenkins</h2>
 </html>
